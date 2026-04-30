@@ -19,3 +19,14 @@ def trigger_reboot():
     os.system("sudo reboot")
 if __name__ == "__main__":
     monitor_pcie_error()    
+
+#BaseNVNeCommand
+#build_dw0()
+# execute()
+#multiprocessing
+#threading
+#mmap
+#ctypes
+#volatile
+#memoryview
+#numpy
